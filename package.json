@@ -1,7 +1,7 @@
 {
   "name": "tracy",
   "description": "Wrapper for v8's stack trace APIs.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/felixge/node-tracy",
   "repository": {
     "type": "git",
